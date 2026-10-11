@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Volets RTS Freebox",
+        "description": "Ajoute les volets RTS de Freebox Home. L'intégration Freebox doit être configurée avant."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Déjà configuré. Une seule configuration est possible."
+    }
+  }
+}
